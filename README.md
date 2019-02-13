@@ -1,5 +1,5 @@
-# mcda
-Deep Multi-Wasserstein Unsupervised Domain Adaptation
+# Deep Multi-Wasserstein Unsupervised Domain Adaptation (MCDA)
+
 
 Implementation of MCDA (Deep Multi-Wasserstein Unsupervised Domain Adaptation).
 
